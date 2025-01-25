@@ -10,6 +10,10 @@ I'm a passionate Computer Science and Engineering graduate with a strong foundat
 - Data analysis and visualization: Pandas, NumPy, Matplotlib, Power BI
 - Web development: HTML, CSS..
 - Operating Systems: Windows
+Fun Facts
+
+- I'm an avid learner and love exploring new technologies.
+- I enjoy participating in coding challenges.  
 
 <!---
 AvaniSingh1402/AvaniSingh1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
