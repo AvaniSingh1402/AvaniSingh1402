@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AvaniSingh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Data analyst
-- 💞️ I’m Looking for a Data analyst job profile
-- 📫 How to reach me singhavani1402@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Avani Singh
+
+**About Me**
+
+I'm a passionate Computer Science and Engineering graduate with a strong foundation in programming, data structures, and algorithms. I'm excited to share my projects and collaborate with others on GitHub.
+
+**Skills**
+
+- Programming languages: Python, MySQL,SQL,Advanced excel
+- Data analysis and visualization: Pandas, NumPy, Matplotlib, Power BI
+- Web development: HTML, CSS..
+- Operating Systems: Windows
 
 <!---
 AvaniSingh1402/AvaniSingh1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
